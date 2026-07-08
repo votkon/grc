@@ -68,6 +68,8 @@
 
 5.2. Developers who do not represent an active host have no voting rights and do not count toward quorum, but may consult the GRC and express their opinion in discussions.
 
+5.3. Core team members may be present in the GRC but have no voting power and do not count toward quorum. They may fully participate in discussions, bring cases up, and propose them for investigation.
+
 ## 6. Case Workflow
 
 6.1. **Case election.** Case election must precede investigation and must pass a proper GRC vote.
