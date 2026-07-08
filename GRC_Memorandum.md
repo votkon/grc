@@ -28,7 +28,7 @@
 - Voting period: 24 hours, or earlier if an irreversible majority is reached;
 - For now, votes take place in the GRC chat;
 - Decisions are made by 50% + 1 of votes cast, except where this memorandum requires a 2/3 vote;
-- Quorum: 33% of members;
+- Quorum: 66% of members;
 - No veto option - voting options are Yes / No / Abstain only.
 
 2.5. No vote may override this memorandum. Any decision that contradicts the memorandum is void; the rules may only be changed through the amendment procedure in Section 10. The Coordinator is responsible for enforcing this.
