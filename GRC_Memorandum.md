@@ -104,7 +104,7 @@
 
 9.3. Paused members are excluded from quorum and voting-threshold calculations. This is done to keep GRC decision-making active and encourage involvement.
 
-9.4. The Coordinator removes members whose host has not had an active weight on the network in the last 30 days. A removed member may rejoin under the standard membership requirements in Section 3.
+9.4. A member whose host becomes inactive is guaranteed a grace period of 30 days, during which they retain full membership. If the host has not regained an active weight on the network by the end of the grace period, the Coordinator removes the member. A removed member may rejoin under the standard membership requirements in Section 3.
 
 ## 10. Amendments and Dissolution
 
