@@ -6,6 +6,7 @@
 
 1.2. The GRC's scope is limited to restitution for losses caused by **confirmed protocol bugs, provable from on-chain state**. The following are explicitly out of scope:
 - External attacks;
+- Vulnerability exploitation;
 - Hardware failures;
 - Other external factors not caused by the protocol itself;
 - Losses attributable to assumptions, market movements, or ordinary network consequences.
