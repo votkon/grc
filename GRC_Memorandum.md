@@ -78,13 +78,15 @@
 
 6.1. **Case election.** Case election must precede investigation and must pass a proper GRC vote.
 
-6.2. **Investigation and review.** The Coordinator assigns one developer as investigator and one as reviewer. If the investigator and reviewer do not reach consensus, a third developer is assigned as an additional reviewer.
+6.2. **Investigation and validation.** Each case must have one investigator and one validator, assigned by the Coordinator. If the case raises doubts, or the investigator and validator do not reach consensus, an additional validator may be added by GRC vote to perform validation.
 
-6.3. **Reproducible evidence.** Each investigated case must be delivered with reproducible code that fetches data from the chain to recreate the issue and calculate the resulting losses.
+6.3. **Victim exclusion.** Developers assigned to a case must not be among the supposed victims of that case. Exceptions must be approved by GRC vote.
 
-6.4. **Rejected cases.** A rejected case must not go to public consideration until the committee reaches internal consensus on how it is presented and what options are offered.
+6.4. **Reproducible evidence.** Each investigated case must be delivered with reproducible code that fetches data from the chain to recreate the issue and calculate the resulting losses.
 
-6.5. **Proposals.** The Coordinator assembles validated cases into proposals and publishes them. Any case added to a GRC proposal must have sufficient on-chain or in-code proof. GRC proposals may only contain cases with calculations performed by the investigator and reviewer - no amendments, no coefficient changes, no joining with other initiatives. Proposals are pure restitutions based on code.
+6.5. **Rejected cases.** A rejected case must not go to public consideration until the committee reaches internal consensus on how it is presented and what options are offered.
+
+6.6. **Proposals.** The Coordinator assembles validated cases into proposals and publishes them. Any case added to a GRC proposal must have sufficient on-chain or in-code proof. GRC proposals may only contain cases with calculations performed by the investigator and reviewer - no amendments, no coefficient changes, no joining with other initiatives. Proposals are pure restitutions based on code.
 
 ## 7. Conflict of Interest and Recusal
 
