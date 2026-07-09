@@ -34,6 +34,8 @@
 
 2.5. No vote may override this memorandum. Any decision that contradicts the memorandum is void; the rules may only be changed through the amendment procedure in Section 10. The Coordinator is responsible for enforcing this.
 
+2.6. Polls may only be created by the Coordinator or by members with voting power in that poll.
+
 ## 3. Membership
 
 3.1. Any host may access the GRC. By default, any host active on the network for the last 30 days is eligible to participate. The activity period may be changed by amendment.
