@@ -64,6 +64,8 @@
 - Helping establish communication with victims and the community;
 - Facilitating GRC decision-making by proposing polls and decisions.
 
+4.4. The Coordinator's role carries no voting power. A Coordinator who also represents an active host votes as a host representative, like any other member.
+
 ## 5. Developers
 
 5.1. Developers who wish to execute case investigation and validation may be asked to prove their skills through a short interview or a sample case before being assigned.
