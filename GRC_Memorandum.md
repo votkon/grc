@@ -66,6 +66,10 @@
 
 4.4. The Coordinator's role carries no voting power. A Coordinator who also represents an active host votes as a host representative, like any other member.
 
+4.5. The Coordinator takes the lead in assigning investigators and validators and may use any selection method, including polls, direct assignment, or random selection. It is the Coordinator's responsibility to ensure that the assigned developers can deliver high-quality investigation and validation results.
+
+4.6. Any member with voting power may create a poll to override the Coordinator's decisions regarding developer assignments - for example, to select a specific developer for a case or to deny a developer an assignment. Such votes pass under the standard voting rules in 2.4.
+
 ## 5. Developers
 
 5.1. Developers who wish to execute case investigation and validation may be asked to prove their skills through a short interview or a sample case before being assigned.
