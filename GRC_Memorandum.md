@@ -38,7 +38,7 @@
 
 ## 3. Membership
 
-3.1. Any host may access the GRC. By default, any host active on the network for the last 30 days is eligible to participate. The activity period may be changed by amendment.
+3.1. Any host may access the GRC. By default, any host active on the network for the last 30 days is eligible to participate.
 
 3.2. A minimum network-weight threshold for participation may be applied by amendment, but no threshold is set by default.
 
@@ -48,7 +48,7 @@
 - No more than one participant per host;
 - Must have the ability and motivation to participate actively.
 
-3.4. Hosts who are not public or cannot be identified by the Coordinator may be asked to set their moniker to confirm their identity. This is a last-resort measure, not a standing requirement.
+3.4. Hosts who are not public or cannot be identified by the Coordinator may be asked to set their moniker to confirm their identity.
 
 ## 4. Coordinator
 
