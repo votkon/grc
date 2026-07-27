@@ -102,11 +102,11 @@
 
 ## 8. Bounties
 
-8.1. Bounties are set prior to any proposal or case work.
+8.1. Bounties are not vested. The amounts are:
 
-8.2. Bounties vest over 30 days.
-
-8.3. Bounty amounts may only be changed by GRC vote. Any member may bring a bounty change to a vote.
+Investigator: 300 USDT per case;
+Validator: 150 USDT per case;
+Coordinator: 300 USDT per proposal.
 
 ## 9. Discipline
 
